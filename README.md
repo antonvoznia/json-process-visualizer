@@ -2,6 +2,9 @@
 
 This script visualizes the **number of processes per user** from a JSON input file using a bar chart.
 
+Example
+![obrazek](https://github.com/user-attachments/assets/a97d67f1-9932-43ce-b084-c64c92e30e8f)
+
 ---
 
 ## ✅ Prerequisites
